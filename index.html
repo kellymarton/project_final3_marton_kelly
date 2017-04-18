@@ -2,61 +2,80 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Bluth's Banana Stand</title>
+    <title>Bluth's Frozen Banana Stand</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
     <link rel="stylesheet" href="css/vendor/normalize.min.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/slimmenu.scss" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
 </head>
 <body>
-
-<h3><a href="tel:1-555-552-5884">555-552-5884</a></h3>
-<h3>bananas@bluthco.com</h3>
-<h3><i class="fa fa-facebook-square" aria-hidden="true"></i>
-<i class="fa fa-instagram" aria-hidden="true"></i>
-<i class="fa fa-twitter-square" aria-hidden="true"></i></h3>
-<h3>Balboa Island, California</h3>
-<h3>Hours of Operation:
-  <ul><li>Sunday-Thursday: 10am-10pm</li>
-      <li>Friday-Saturday: 10am-12am</li>
-  </ul></h3>
-
-  <h2>Menu</h2>
-  <ul>
-    <li>Classic Frozen Bananas</li>
-      <ul>
-        <li>The Original Frozen Banana</li>
-        <li>On the Go-Go Banana</li>
-        <li>Simple Simon</li>
+  <header>
+      <a href="index.html"><img id="logo" src= "img/bananaicon.png" alt="icon" title="icon"></a>
+      <h1>Bluth's</h1>
+      <h2>Frozen Banana Stand</h2>
+      <h4><i class="fa fa-facebook-square" aria-hidden="true"></i>
+      <i class="fa fa-instagram" aria-hidden="true"></i>
+      <i class="fa fa-twitter-square" aria-hidden="true"></i></h4>
+      <ul id="navigation" class="slimmenu">
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="contact.html">Contact and Hours</a></li>
+        <li><a href="discounts.html">Family Discounts</a></li>
+        <li><a href="giftcards.html">Gift Cards</a></li>
       </ul>
-    <li>Fancy Frozen Bananas</li>
-      <ul>
-        <li>Double Dipped Frozen Banana</li>
-        <li>George Daddy Banana</li>
-        <li>Giddy-Girly Banana</li>
-      </ul>
-    <li>Beverages</li>
-      <ul>
-        <li>Lucille's Lemonade</li>
-        <li>Buster's Brew</li>
-        <li>Tobias Tea</li>
-      </ul>
-    <li>Other Snacks</li>
-      <ul>
-        <li>Maeby Munchies</li>
-        <li>Bob Loblaw Burger</li>
-        <li>Mr. F French Fries</li>
-      </ul>
-  </ul>
+  </header>
+
+  <main>
+    <img id="awning" alt="awning" src="img/awning.jpg">
+    <article id="contact">
+      <h3>Contact Information</h3>
+      <h3><a href="tel:1-555-552-5884">555-552-5884</a></h3>
+      <h4>bananas@bluthco.com</h4>
+
+      <h3>Hours of Operation:</h3>
+        <h4>Sunday-Thursday: 10am-10pm</h4>
+        <h4>Friday-Saturday: 10am-12am</h4>
+    </article>
+    <article id="foodmenu">
+      <h3>Menu</h3>
+        <ul>
+          <li>Classic Frozen Bananas</li>
+            <ul>
+              <li>The Original Frozen Banana</li>
+              <li>On the Go-Go Banana</li>
+              <li>Simple Simon</li>
+            </ul>
+          <li>Fancy Frozen Bananas</li>
+            <ul>
+              <li>Double Dipped Frozen Banana</li>
+              <li>George Daddy Banana</li>
+              <li>Giddy-Girly Banana</li>
+            </ul>
+          <li>Beverages</li>
+            <ul>
+              <li>Lucille's Lemonade</li>
+              <li>Buster's Brew</li>
+              <li>Tobias Tea</li>
+            </ul>
+          <li>Other Snacks</li>
+            <ul>
+              <li>Maeby Munchies</li>
+              <li>Bob Loblaw Burger</li>
+              <li>Mr. F French Fries</li>
+            </ul>
+        </ul>
+    </article>
 
 
 
-
+  </main>
 
     <script src="https://use.fontawesome.com/0a0e35dc6f.js"></script>
     <script src="js/jquery-3.2.0.min.js"></script>
+    <script src="js/jquery.slimmenu.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>
