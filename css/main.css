@@ -32,6 +32,10 @@ main {
     padding: 5%;
 }
 
+#stick {
+    background-color: #ffffff;
+}
+
 h1 {
     font-family: titania;
     font-size: 75px;
