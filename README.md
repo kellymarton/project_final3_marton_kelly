@@ -11,6 +11,10 @@
 # Resources
 [CSS Icons](https://www.w3schools.com/w3css/w3css_icons.asp)
 
+[Sticky Plugin](http://stickyjs.com/)
+
+[SlimMenu Plugin](http://adnantopal.github.io/slimmenu/)
+
 Used instructions on CSS Icons to place icons for social media.
 
 # Deductions

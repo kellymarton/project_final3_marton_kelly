@@ -7,13 +7,21 @@ html {
     box-sizing: border-box;
 }
 
+#container {
+    width: 100%;
+    margin: auto;
+}
+
 body {
     width: 100%;
     background-color: #0054a6;
     color: #ffffff;
+    margin: auto;
 }
 
 header {
+    margin: auto;
+    width: 100%;
     background-color: #ffffff;
     color: #0054a6;
     text-align: center;
@@ -29,7 +37,23 @@ main {
     width: 100%;
     box-sizing: inherit;
     margin: auto;
-    padding: 5%;
+    padding-top: 50px;
+}
+
+article {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.icon-bar {
+    padding-bottom: 2px;
+}
+
+main img {
+    width: 100%;
+    margin: auto;
+    height: auto;
+    margin-top: 40px;
 }
 
 #stick {
@@ -51,6 +75,7 @@ h2 {
     margin: 1px;
     font-weight: 700;
     text-transform: uppercase;
+    padding: 5px;
 }
 
 h3 {

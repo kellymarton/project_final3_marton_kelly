@@ -15,26 +15,43 @@
 <body>
   <header>
       <a href="index.html"><img id="logo" src= "img/bananaicon.png" alt="icon" title="icon"></a>
-      <h1>Bluth's</h1>
-      <h2>Frozen Banana Stand</h2>
-      <h4><i class="fa fa-facebook-square" aria-hidden="true"></i>
-      <i class="fa fa-instagram" aria-hidden="true"></i>
-      <i class="fa fa-twitter-square" aria-hidden="true"></i></h4>
-      <ul id="navigation" class="slimmenu">
-        <li><a href="menu.html">Menu</a></li>
-        <li><a href="contact.html">Contact and Hours</a></li>
-        <li><a href="discounts.html">Family Discounts</a></li>
-        <li><a href="giftcards.html">Gift Cards</a></li>
-      </ul>
+      <div id="stick">
+        <h1>Bluth's</h1>
+        <h2>Frozen Banana Stand</h2>
+        <h2><i class="fa fa-facebook-square fa-lg" aria-hidden="true"></i>
+        <i class="fa fa-instagram fa-lg" aria-hidden="true"></i>
+        <i class="fa fa-twitter-square fa-lg" aria-hidden="true"></i></h2>
+        <ul id="navigation" class="slimmenu">
+          <li><a href="menu.html">Menu</a></li>
+          <li><a href="contact.html">Contact and Hours</a></li>
+          <li><a href="discounts.html">Family Discounts</a></li>
+          <li><a href="giftcards.html">Gift Cards</a></li>
+        </ul>
+      </div>
   </header>
 
   <main>
+    <article id="contact">
+      <h3>Contact Information</h3>
+      <h3><a href="tel:1-555-552-5884">555-552-5884</a></h3>
+      <h4>bananas@bluthco.com</h4>
+
+      <h3>Hours of Operation:</h3>
+        <h4>Sunday-Thursday: 10am-10pm</h4>
+        <h4>Friday-Saturday: 10am-12am</h4>
+    </article>
 
   </main>
 
     <script src="https://use.fontawesome.com/0a0e35dc6f.js"></script>
     <script src="js/jquery-3.2.0.min.js"></script>
     <script src="js/jquery.slimmenu.js"></script>
+    <script src="js/jquery.sticky.js"></script>
     <script src="js/main.js"></script>
+    <script>
+      $(document).ready(function(){
+        $("#stick").sticky({topSpacing:0});
+      });
+      </script>
 </body>
 </html>
