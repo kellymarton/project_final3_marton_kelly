@@ -2,7 +2,7 @@
 
 [Repository](https://github.com/kellymarton/project_final3_marton_kelly)
 
-[Project URL]()
+[Project URL](http://kellymarton.com/bluthsbananastand/)
 
 [W3C Validator]()
 
@@ -21,3 +21,5 @@ Used instructions on CSS Icons to place icons for social media.
 I reviewed the list of deductions for this project and in the syllabus.
 
 # Comments
+I had a hard time with this project because a lot of it was focused on content generation and
+I think I would have had more time to focus on the coding if I didn't have to spend so much time generating copy

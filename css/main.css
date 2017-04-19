@@ -17,6 +17,7 @@ body {
     background-color: #0054a6;
     color: #ffffff;
     margin: auto;
+    font-size: 20px;
 }
 
 header {
@@ -37,7 +38,7 @@ main {
     width: 100%;
     box-sizing: inherit;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 35px;
 }
 
 article {
@@ -84,7 +85,7 @@ h3 {
 }
 
 h4 {
-   font-size: 15px;
+    font-size: 15px;
 }
 
 a {
@@ -98,6 +99,10 @@ a {
 
     .slimmenu li {
         display: inline;
+    }
+
+    #container {
+        width: 75%;
     }
 
 }
