@@ -25,6 +25,11 @@ This plugin creates a responsive menu bar that is a drop down at the mobile scal
 
 I used this reference to help with my custom jQuery code. When you mouse over the menu, it turns red instead of blue. When you mouse out, it turns yellow.
 
+[onclick event](https://www.w3schools.com/jsref/event_onclick.asp)
+
+I used this as a reference to add my custom Javascript code. On the home page, if you click the line that says "FROZEN BANANA STAND," a new line will appear below it that says "There's always money in the banana stand."
+
+
 # Deductions
 I reviewed the list of deductions for this project and in the syllabus.
 
