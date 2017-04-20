@@ -21,7 +21,9 @@ This plugin is applied to the title and menu of each page so that when the user 
 
 This plugin creates a responsive menu bar that is a drop down at the mobile scale and returns to a classic menu on desktop versions.
 
-Used instructions on CSS Icons to place icons for social media.
+[Mouseover/Mouseout](https://api.jquery.com/mouseout/)
+
+I used this reference to help with my custom jQuery code. When you mouse over the menu, it turns red instead of blue. When you mouse out, it turns yellow.
 
 # Deductions
 I reviewed the list of deductions for this project and in the syllabus.
