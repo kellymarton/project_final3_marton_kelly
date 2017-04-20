@@ -108,19 +108,17 @@ a {
 }
 
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 480px) {
 
-
+    main {
+        width: 50%;
+    }
 }
 
 
 @media screen and (min-width: 784px) {
-
     .slimmenu li {
         display: inline;
     }
 
-    #container {
-        width: 75%;
-    }
 }
