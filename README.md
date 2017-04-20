@@ -11,9 +11,15 @@
 # Resources
 [CSS Icons](https://www.w3schools.com/w3css/w3css_icons.asp)
 
+Used instructions on CSS Icons to place icons for social media.
+
 [Sticky Plugin](http://stickyjs.com/)
 
+This plugin is applied to the title and menu of each page so that when the user scrolls up, the banana icon leaves the page but the "Bluth's Frozen Banana Stand," social media icons, and menu bar stay at the top of the page.
+
 [SlimMenu Plugin](http://adnantopal.github.io/slimmenu/)
+
+This plugin creates a responsive menu bar that is a drop down at the mobile scale and returns to a classic menu on desktop versions.
 
 Used instructions on CSS Icons to place icons for social media.
 

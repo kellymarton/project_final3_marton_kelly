@@ -17,7 +17,7 @@ body {
     background-color: #0054a6;
     color: #ffffff;
     margin: auto;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 header {
@@ -41,10 +41,14 @@ main {
     padding-top: 35px;
 }
 
+figure {
+    margin: auto;
+}
+
 article {
     padding-right: 10px;
     padding-left: 10px;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 figcaption {
@@ -75,6 +79,11 @@ h1 {
     text-transform: uppercase;
 }
 
+.menugroup {
+    width: 50%;
+    margin: auto;
+}
+
 h2 {
     font-family: 'PT Sans', sans-serif;
     font-size: 25px;
@@ -85,12 +94,13 @@ h2 {
 }
 
 h3 {
-    font-size: 20px;
+    font-size: 24px;
     color: #f11c24;
 }
 
 h4 {
-    font-size: 15px;
+    font-size: 22px;
+    margin-bottom: 3px;
 }
 
 a {
@@ -98,6 +108,10 @@ a {
 }
 
 
+@media screen and (min-width: 1000px) {
+
+
+}
 
 
 @media screen and (min-width: 784px) {
@@ -109,10 +123,4 @@ a {
     #container {
         width: 75%;
     }
-
-}
-
-@media screen and (min-width: 1000px) {
-
-
 }
