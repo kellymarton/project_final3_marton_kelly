@@ -4,9 +4,22 @@
 
 [Project URL](http://kellymarton.com/bluthsbananastand/)
 
-[W3C Validator]()
+[W3C Validator Home](https://validator.w3.org/nu/?doc=http%3A%2F%2Fkellymarton.com%2Fbluthsbananastand%2Findex.html)
 
-[HTML5 Outliner]()
+[W3C Validator Menu](https://validator.w3.org/nu/?doc=http%3A%2F%2Fkellymarton.com%2Fbluthsbananastand%2Fmenu.html)
+
+[W3C Validator Contact](https://validator.w3.org/nu/?doc=http%3A%2F%2Fkellymarton.com%2Fbluthsbananastand%2Fcontact.html)
+
+[W3C Validator Promotions](https://validator.w3.org/nu/?doc=http%3A%2F%2Fkellymarton.com%2Fbluthsbananastand%2Fpromotions.html)
+
+
+[HTML5 Outliner Home](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fkellymarton.com%2Fbluthsbananastand%2F)
+
+[HTML Outliner Menu](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fkellymarton.com%2Fbluthsbananastand%2Fmenu.html)
+
+[HTML Outliner Contact](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fkellymarton.com%2Fbluthsbananastand%2Fcontact.html)
+
+[HTML Outliner Promotions](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fkellymarton.com%2Fbluthsbananastand%2Fpromotions.html)
 
 # Resources
 [CSS Icons](https://www.w3schools.com/w3css/w3css_icons.asp)

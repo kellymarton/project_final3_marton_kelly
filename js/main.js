@@ -19,7 +19,9 @@ $(document).ready(function () {
 });
 
 var fbs = document.getElementById('fbs');
-fbs.onclick = function () {myFunction()}
+fbs.onclick = function () {
+    myFunction();
+};
 function myFunction() {
     document.getElementById('money').innerHTML = "There's always money in the banana stand.";
 }
