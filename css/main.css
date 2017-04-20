@@ -107,6 +107,9 @@ a {
     color: inherit;
 }
 
+#money {
+    font-size: 15px;
+}
 
 @media screen and (min-width: 480px) {
 
@@ -120,5 +123,4 @@ a {
     .slimmenu li {
         display: inline;
     }
-
 }
